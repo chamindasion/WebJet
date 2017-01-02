@@ -1,0 +1,17 @@
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\bin\Debug\MD.Puzzle.Models.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\bin\Debug\MD.Puzzle.Models.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\bin\Debug\Omu.ValueInjecter.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\bin\Debug\Omu.ValueInjecter.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\bin\Debug\Omu.ValueInjecter.xml
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\obj\Debug\MD.Puzzle.Models.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Models\obj\Debug\MD.Puzzle.Models.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\WJ.MovieWorld.Models.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\WJ.MovieWorld.Models.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\Omu.ValueInjecter.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\Omu.ValueInjecter.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\bin\Debug\Omu.ValueInjecter.xml
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\obj\Debug\WJ.MovieWorld.Models.csprojResolveAssemblyReference.cache
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\obj\Debug\WJ.MovieWorld.Models.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Models\obj\Debug\WJ.MovieWorld.Models.pdb

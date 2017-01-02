@@ -1,0 +1,5 @@
+C:\Chamindah\InterviewExams\WebJet\Client\WJ.Cinema.Client\bin\WJ.Cinema.Client.dll
+C:\Chamindah\InterviewExams\WebJet\Client\WJ.Cinema.Client\bin\WJ.Cinema.Client.pdb
+C:\Chamindah\InterviewExams\WebJet\Client\WJ.Cinema.Client\obj\Debug\WJ.Cinema.Client.dll
+C:\Chamindah\InterviewExams\WebJet\Client\WJ.Cinema.Client\obj\Debug\WJ.Cinema.Client.pdb
+C:\Chamindah\InterviewExams\WebJet\Client\WJ.Cinema.Client\obj\Debug\WJ.MovieWorld.Client.csprojResolveAssemblyReference.cache

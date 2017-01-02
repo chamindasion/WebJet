@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>-->
+        <script src="Scripts/jquery-1.9.1.min.js"></script>
+        <script src="Scripts/bootstrap.min.js"></script>
+        <link href="Content/bootstrap.min.css" rel="stylesheet" />        
+    </head>
+<body ng-controller="MainController as vm">    
+    <div>
+        <div ui-view></div>
+    </div>                  
+
+    <script src="Scripts/angular.min.js"></script>    
+    <script src="Scripts/angular-ui-router.min.js"></script>
+        
+    <script src="app/app.js"></script>
+    <script src="app/main.controller.js"></script>    
+    
+    <script src="app/auth/authInterceptor.service.js"></script>
+
+    <script src="app/search/search.module.js"></script>
+    <script src="app/search/search.route.js"></script>
+    <script src="app/search/search.controller.js"></script>
+    <script src="app/search/search.service.js"></script>
+</body>
+</html>

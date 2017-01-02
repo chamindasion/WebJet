@@ -1,0 +1,8 @@
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Utilities\bin\Debug\MD.Puzzle.Utilities.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Utilities\bin\Debug\MD.Puzzle.Utilities.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Utilities\obj\Debug\MD.Puzzle.Utilities.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\MD.Puzzle.Utilities\obj\Debug\MD.Puzzle.Utilities.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Utilities\bin\Debug\WJ.MovieWorld.Utilities.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Utilities\bin\Debug\WJ.MovieWorld.Utilities.pdb
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Utilities\obj\Debug\WJ.MovieWorld.Utilities.dll
+C:\Chamindah\InterviewExams\WebJet\Server\Core\WJ.MovieWorld.Utilities\obj\Debug\WJ.MovieWorld.Utilities.pdb

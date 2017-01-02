@@ -1,0 +1,49 @@
+# --------------------
+
+# Ignore Visual Studio  Project 
+#
+# --------------------
+
+*.user
+
+*.suo
+
+/packages
+
+# --------------------
+
+# bin 
+#
+# --------------------
+
+WJ.Cinema.Client/bin
+
+WJ.Cinema.Client/obj
+
+WJ.MovieWorld.API/bin
+
+WJ.MovieWorld.API/obj
+
+WJ.MovieWorld.Data/bin
+
+WJ.MovieWorld.Data/obj
+
+WJ.MovieWorld.Data.Contracts/bin
+
+WJ.MovieWorld.Data.Contracts/obj
+
+WJ.MovieWorld.Models/bin
+
+WJ.MovieWorld.Models/obj
+
+WJ.MovieWorld.Service/bin
+
+WJ.MovieWorld.Service/obj
+
+WJ.MovieWorld.Service.Contracts/bin
+
+WJ.MovieWorld.Service.Contracts/obj
+
+WJ.MovieWorld.Utilities/bin
+
+WJ.MovieWorld.Utilities/obj

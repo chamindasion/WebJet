@@ -1,0 +1,53 @@
+﻿<div class="container">
+    <div class="container">
+        <div class="panel-heading">Welcome to Movie Search.</div>
+
+        <div class="input-group">
+            <span class="input-group-addon">Movie Name</span>
+            <input id="txtSearch" type="text" class="form-control" placeholder="Enter Movie Name" ng-model="searchCriteria">
+            <span class="input-group-btn">
+                <button id="btnSearch" class="btn btn-default" data-ng-click="vm.getMovies(searchCriteria)">Search</button>
+            </span>
+        </div>
+        <div class="container">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Id </th>
+                        <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Title </th>
+                        <th class="col-xs-1 col-sm-1 col-md-1 col-lg-1">Year</th>                        
+                        <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">FilmWorld Price</th>
+                        <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2 text-right">CinemaWorld Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr data-ng-repeat="row in vm.Movies">
+                        <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <label>{{row.id}}</label></td>
+                        <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <label>{{row.title}}</label></td>
+                        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                            <label>{{row.year}} </label>
+                        </td>                        
+                        <td class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+                            <label><a href="javascript:;" data-ng-click="vm.showPriceModal(row, 'fw')">View Price</a></label>
+                        </td>
+                        <td class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+                            <label><a href="javascript:;" data-ng-click="vm.showPriceModal(row, 'cw')">View Price</a></label>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <!--Modal-->
+        <div class ="modal fade" id="viewModal" tabindex ="-1" role="dialog" aria-hidden="true">
+            <div class ="modal-dialog">
+                <div class="modal-content"> 
+                    Movie Price is : {{vm.movieDetail.price}}
+                </div>
+            </div>    
+        </div>
+
+    </div>
+</div>
